@@ -1,5 +1,5 @@
 # cmpe331-W02C
 
-infornation
+infornation 
 
 
